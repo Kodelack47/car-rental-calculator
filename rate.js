@@ -1,3 +1,4 @@
+/* Author: Ousmana Tunkara · github.com/Kodelack47 · Car Rental Calculator */
 function getRateData(days, tag, gps, roadside, under25 ) {
     //OUPUT VARIABLES
     let rentalAmount = 0;

@@ -1,3 +1,4 @@
+/* Author: Ousmana Tunkara · github.com/Kodelack47 · Car Rental Calculator */
 
 //window.onload = 
 

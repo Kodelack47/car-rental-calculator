@@ -36,3 +36,9 @@ An interactive car rental booking calculator built with JavaScript that estimate
 - Dynamic pricing calculations
 - Form validation
 - User interface feedback
+
+## Author
+
+**Ousmana Tunkara** · [GitHub @Kodelack47](https://github.com/Kodelack47)
+
+Licensed under the [MIT License](LICENSE).
