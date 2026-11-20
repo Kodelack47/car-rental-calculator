@@ -2,7 +2,7 @@
 
 An interactive car rental booking calculator built with JavaScript that estimates rental costs based on duration, selected features, and customer age.
 
-**GitHub:** [github.com/Kodelack47/CarRental](https://github.com/Kodelack47/CarRental)
+**GitHub:** [github.com/Kodelack47/car-rental-calculator](https://github.com/Kodelack47/car-rental-calculator)
 
 ## Features
 
